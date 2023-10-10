@@ -126,7 +126,7 @@
         font-style: italic;
         padding: 14px;
         font-family: "Oswald";
-        font-size: 4px;
+        font-size: 6px;
         letter-spacing: 1px;
     }
 }
@@ -153,9 +153,9 @@
     .quotes {
         width: 35%;
         display: flex;
-        margin-left: 2.7em;
+        margin-left: 3.2em;
         position: relative;
-        bottom: 11.5em;
+        bottom: 12.5em;
     }
 
     #movielovers > img {
@@ -225,7 +225,7 @@
         display: flex;
         color: white;
         position: absolute;
-        bottom: 4.5em;
+        bottom: 4.2em;
         padding: 10px 20px 10px 0;
         margin-left: 1.5em;
         font-family:"Oswald";
@@ -248,7 +248,7 @@
         font-style: italic;
         padding: 14px;
         font-family: "Oswald";
-        font-size: 10px;
+        font-size: 12px;
         letter-spacing: 1px;
     }
 }
@@ -369,7 +369,7 @@
         font-style: italic;
         padding: 20px;
         font-family: "Oswald";
-        font-size: 12px;
+        font-size: 16px;
         letter-spacing: 1px;
     }
 
